@@ -1,0 +1,17 @@
+{
+    "music":[{"file":"war.mp3","artname":"unknown","name":"我的战争","img":"unknown.jpg","Love":false},
+        {"file":"starCarry.mp3","artname":"少女☆歌剧 Revue Starlight","name":"摘星の塔","img":"SG.jpg","Love":false},
+        {"file":"Remake.mp3","artname":"少女☆歌剧 Revue Starlight","name":"再生产","img":"SG.jpg","Love":false},
+        {"file":"Otomad World.mp3","artname":"tohouProject","name":"寄世界于东方","img":"unknown.jpg","Love":false},
+        {"file":"The Nightmare Woods.mp3","artname":"Jake Kaufman","name":"The Nightmare Woods","img":"unknown.jpg","Love":false},
+        {"file":"INDETERMINATE UNIVERSE.mp3","artname":"KEMURIKUSA","name":"INDETERMINATE UNIVERSE","img":"YC.jpg","Love":false},
+        {"file":"Idoratrize World.mp3","artname":"Zun","name":"寄世界于偶像","img":"TP.jpg","Love":false},
+        {"file":"ghost.mp3","artname":"MOYO-MIX","name":"克洛伊","img":"unknown.jpg","Love":false},
+        {"file":"Fly Away.mp3","artname":"unknown","name":"Fly Away","img":"FA.jpg","Love":false},
+        {"file":"Firefly's wish.mp3","artname":"闫东炜","name":"萤火虫之愿","img":"Fsw.jpg","Love":false},
+        {"file":"Firefly's complaint.mp3","artname":"闫东炜","name":"萤火虫之怨","img":"Fsc.jpg","Love":false},
+        {"file":"Egoistic Flowers.mp3","artname":"Zun","name":"今宵是飘逸的利己主义者","img":"pyh.jpg","Love":false},
+        {"file":"Luv Letter.mp3","artname":"Dj Okawari","name":"Luv Letter","img":"FD.jpg","Love":false},
+        {"file":"Flower Dance.mp3","artname":"Dj Okawari","name":"Flower Dance","img":"FD.jpg","Love":false}
+    ]
+}
